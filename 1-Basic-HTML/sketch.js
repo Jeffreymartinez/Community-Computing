@@ -1,5 +1,5 @@
 function setup() {
-  canvas = createCanvas(700,700);
+  canvas = createCanvas(1445,800);
   canvas.position(0,0);
   canvas.style('z-index','-1');
 
