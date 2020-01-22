@@ -8,5 +8,5 @@ function setup() {
 }
 
 function draw() {
-background("red");
+background(204, 204, 255);
 }
