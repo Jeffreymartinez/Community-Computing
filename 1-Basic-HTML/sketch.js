@@ -1,5 +1,5 @@
 function setup() {
-  canvas = createCanvas(1445,800);
+  canvas = createCanvas(1440,1000);
   canvas.position(0,0);
   canvas.style('z-index','-1');
 
@@ -8,5 +8,5 @@ function setup() {
 }
 
 function draw() {
-background(204, 204, 255);
+  background('#F8B195');
 }
